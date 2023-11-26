@@ -15,6 +15,6 @@ body{
 	border-left: 8px solid green;
 	margin-top: 20px;
 	background-color: #ffff;
-	width: 600px;
+	max-width: 600px;
 	
 }
